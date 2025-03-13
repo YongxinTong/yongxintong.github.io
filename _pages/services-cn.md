@@ -5,9 +5,9 @@ permalink: /services-cn/
 author_profile: true
 ---
 
-+ **期刊主编**
++ **期刊执行编委**
   + Frontiers of Computer Science (FCS), 2022 - date
-+ **期刊副主编**
++ **期刊编委**
   + IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 - date
   + Proceedings of the VLDB Endowment (PVLDB), 2022 - date
   + IEEE Transactions on Big Data (TBD), 2018 - date
