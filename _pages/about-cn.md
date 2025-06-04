@@ -26,6 +26,22 @@ redirect_from:
 + 向量数据库：面向大模型的高维向量检索、联邦向量数据库
 + 群体智能：大模型智能体、群智任务分配、时空众包计算
 
+奖项
+------
+- 国家杰出青年科学基金项目，2024  
+- 中国电子学会青年科学家奖，2024  
+- [DASFAA 2023会议最佳论文奖](https://hufudb.com/static/images/group/ieee-mdm2021-best-paper-award.png)，2023  
+- [中国电子学会自然科学一等奖（排名1）](https://www.cie-info.org.cn/site/content/4580.html)，2022  
+- [IEEE MDM 2021会议最佳论文奖](https://hufudb.com/static/images/group/ieee-mdm2021-best-paper-award.png)，2021  
+- [KDD Cup 2020强化学习赛道冠军](https://hufudb.com/homepage/kddcup21.pdf)，2020  
+- 国家优秀青年科学基金项目，2018  
+- [阿里巴巴达摩院青橙奖（首届）](https://hufudb.com/homepage/damo.pdf)（[1](https://hufudb.com/homepage/damo.jpg), [2](https://damo.alibaba.com/damo-academy-young-fellow)），2018  
+- [WAIM 2016会议最佳论文奖](https://hufudb.com/static/images/group/group4.png)，2016  
+- [VLDB 2014杰出演示系统奖](http://www.cse.ust.hk/News/ACM_VLDB2014/)，2014  
+- [微软学者奖学金](http://research.microsoft.com/en-us/collaboration/global/asia-pacific/talent/fellows.aspx)（[1](http://www.msra.cn/Articles/ArticleItem.aspx?Guid=22bf1497-6ffa-47aa-8158-41f8d3bc6c04), [2](http://www.cse.ust.hk/News/MS_Fellowship2012/)），2012 
+- [萨师煊优秀学生论文奖](http://sites.nlsde.buaa.edu.cn/~yxtong/NDBC2009.pdf)，2009  
+
+
 ## 研究组
 
 这是我的[研究组链接](https://hufudb.com)
