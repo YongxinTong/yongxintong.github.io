@@ -40,19 +40,18 @@ Research Interests
 Honors
 ------
 
-<ul>
-        <li><a href="https://www.cie-info.org.cn/site/content/4580.html" target="_blank" style="text-decoration:none;">First Prize of the Natural Sciences</a>, Chinese Institute of Electronics, 2022.</li>
-         <li><a href="https://hufudb.com/static/images/group/ieee-mdm2021-best-paper-award.png" target="_blank" style="text-decoration:none;">Best Paper Award</a>, IEEE MDM Conference, 2021.</li>
-         <li><a href="https://hufudb.com/homepage/kddcup21.pdf" target="_blank" style="text-decoration:none;">Champion (Team Coach) of the RL Track in  KDD Cup 2020 Competition</a>, ACM KDD Conference, 2020.</li>
-        <li>NSFC Outstanding Young Scholar, National Natural Science Foundation of China, 2018.</li>
-        <li><a href="https://hufudb.com/homepage/damo.pdf" target="_blank" style="text-decoration:none;">DAMO Academy Young Fellow</a>  (<a href="https://hufudb.com/homepage/damo.jpg" target="_blank" style="text-decoration:none;">1</a>, <a href="https://damo.alibaba.com/damo-academy-young-fellow" target="_blank" style="text-decoration:none;">2</a>), Alibaba DAMO Academy, 2018.</li>
-        <li><a href="https://hufudb.com/static/images/group/group4.png" target="_blank" style="text-decoration:none;">Best Paper Award</a> , WAIM Conference, 2016.</li>
-        <li><a href="http://www.cse.ust.hk/News/ACM_VLDB2014/" target="_blank" style="text-decoration:none;">VLDB 2014 Excellent Demonstration Award</a>, VLDB Conference, 2014.</li>
-        <li><a href="http://research.microsoft.com/en-us/collaboration/global/asia-pacific/talent/fellows.aspx" target="_blank" style="text-decoration:none;">Microsoft Research Asia Fellowship</a> (<a href="http://www.msra.cn/Articles/ArticleItem.aspx?Guid=22bf1497-6ffa-47aa-8158-41f8d3bc6c04" target="_blank" style="text-decoration:none;">1</a>, <a href="http://www.cse.ust.hk/News/MS_Fellowship2012/" target="_blank" style="text-decoration:none;">2</a>), MSRA, 2012.</li>
-        <li>Excellent Master Dissertation Award, Beihang University, 2010.</li>
-        <li>Tencent Technology Excellence Scholarship, Beihang University, 2009. </li>
-        <li><a href="http://sites.nlsde.buaa.edu.cn/~yxtong/NDBC2009.pdf" target="_blank" style="text-decoration:none;">Sa Shixuan Best Student Paper Award</a>, NDBC Conference, 2009. </li>
-</ul>
+- NSFC Distinguished Young Scholar, National Natural Science Foundation of China, 2024.
+- Young Scientist Award, Chinese Institute of Electronics, 2024.
+- Best Paper Award, DASFAA Conference, 2023.
+- [First Prize of the Natural Sciences](https://www.cie-info.org.cn/site/content/4580.html), Chinese Institute of Electronics, 2022.
+- [Best Paper Award](https://hufudb.com/static/images/group/ieee-mdm2021-best-paper-award.png), IEEE MDM Conference, 2021.
+- [Champion (Team Coach) of the RL Track in KDD Cup 2020 Competition](https://hufudb.com/homepage/kddcup21.pdf), ACM KDD Conference, 2020.
+- NSFC Outstanding Young Scholar, National Natural Science Foundation of China, 2018.
+- [DAMO Academy Young Fellow](https://hufudb.com/homepage/damo.pdf) ([1](https://hufudb.com/homepage/damo.jpg), [2](https://damo.alibaba.com/damo-academy-young-fellow)), Alibaba DAMO Academy, 2018.
+- [Best Paper Award](https://hufudb.com/static/images/group/group4.png), WAIM Conference, 2016.
+- [VLDB 2014 Excellent Demonstration Award](http://www.cse.ust.hk/News/ACM_VLDB2014/), VLDB Conference, 2014.
+- [Microsoft Research Asia Fellowship](http://research.microsoft.com/en-us/collaboration/global/asia-pacific/talent/fellows.aspx) ([1](http://www.msra.cn/Articles/ArticleItem.aspx?Guid=22bf1497-6ffa-47aa-8158-41f8d3bc6c04), [2](http://www.cse.ust.hk/News/MS_Fellowship2012/)), MSRA, 2012.
+- [Sa Shixuan Best Student Paper Award](http://sites.nlsde.buaa.edu.cn/~yxtong/NDBC2009.pdf), NDBC Conference, 2009.
 
 ## Group
 
