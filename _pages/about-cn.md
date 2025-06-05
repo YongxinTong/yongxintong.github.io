@@ -29,8 +29,8 @@ redirect_from:
 奖项
 ------
 - 国家杰出青年科学基金项目，2024  
-- 中国电子学会青年科学家奖，2024  
-- [DASFAA 2023会议最佳论文奖](https://hufudb.com/static/images/group/ieee-mdm2021-best-paper-award.png)，2023  
+- [中国电子学会青年科学家奖](https://hufudb.com/homepage/young-scientist.pdf)，2024  
+- [DASFAA 2023会议最佳论文奖](https://hufudb.com/homepage/dasfaa23.pdf)，2023  
 - [中国电子学会自然科学一等奖（排名1）](https://www.cie-info.org.cn/site/content/4580.html)，2022  
 - [IEEE MDM 2021会议最佳论文奖](https://hufudb.com/static/images/group/ieee-mdm2021-best-paper-award.png)，2021  
 - [KDD Cup 2020强化学习赛道冠军](https://hufudb.com/homepage/kddcup21.pdf)，2020  
