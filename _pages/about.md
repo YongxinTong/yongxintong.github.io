@@ -41,8 +41,8 @@ Honors
 ------
 
 - NSFC Distinguished Young Scholar, National Natural Science Foundation of China, 2024.
-- Young Scientist Award, Chinese Institute of Electronics, 2024.
-- Best Paper Award, DASFAA Conference, 2023.
+- [Young Scientist Award](https://hufudb.com/homepage/young-scientist.pdf), Chinese Institute of Electronics, 2024.
+- [Best Paper Award](https://hufudb.com/homepage/dasfaa23.pdf), DASFAA Conference, 2023.
 - [First Prize of the Natural Sciences](https://www.cie-info.org.cn/site/content/4580.html), Chinese Institute of Electronics, 2022.
 - [Best Paper Award](https://hufudb.com/static/images/group/ieee-mdm2021-best-paper-award.png), IEEE MDM Conference, 2021.
 - [Champion (Team Coach) of the RL Track in KDD Cup 2020 Competition](https://hufudb.com/homepage/kddcup21.pdf), ACM KDD Conference, 2020.
