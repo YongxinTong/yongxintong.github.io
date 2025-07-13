@@ -39,7 +39,8 @@ Research Interests
 
 Honors
 ------
-
+- [Frontiers of Science Award](https://hufudb.com/homepage/frontiers-of-science.pdf), International Congress of Basic Science, 2025
+- [Rising Star Award](https://hufudb.com/homepage/rising-star1.pdf) ([1](https://hufudb.com/homepage/rising-star2.jpg), [2](https://damo.alibaba.com/damo-academy-young-fellow)), KDD China, 2025
 - NSFC Distinguished Young Scholar, National Natural Science Foundation of China, 2024.
 - [Young Scientist Award](https://hufudb.com/homepage/young-scientist.pdf), Chinese Institute of Electronics, 2024.
 - [Best Paper Award](https://hufudb.com/homepage/dasfaa23.pdf), DASFAA Conference, 2023.
