@@ -28,6 +28,8 @@ redirect_from:
 
 学术荣誉
 ------
+- [国际基础科学大会前沿科学奖](https://hufudb.com/homepage/frontiers-of-science.pdf)，2025
+- [KDD China青年科学家奖](https://hufudb.com/homepage/rising-star1.pdf)（[1](https://hufudb.com/homepage/rising-star2.jpg), [2](https://hufudb.com/homepage/rising-star3.jpg)），2025
 - 国家杰出青年科学基金项目，2024  
 - [中国电子学会青年科学家奖](https://hufudb.com/homepage/young-scientist.pdf)，2024  
 - [DASFAA 2023会议最佳论文奖](https://hufudb.com/homepage/dasfaa23.pdf)，2023  
